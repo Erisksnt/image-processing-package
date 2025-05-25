@@ -1,4 +1,4 @@
-# package_name
+# Meu primeiro package em Python
 
 Description. 
 The package package_name is used to:
